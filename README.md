@@ -4,5 +4,5 @@
 
     🌍 I live in Prague.
     👨‍💻 Python/C/C++ Developer with 3+ years of experience.
-    💼 Working as Middle Django/FastApi Backend developer at Ceska Sporitelna.
+    💼 Working as Senior Django/FastApi Backend developer at Ceska Sporitelna.
     🎓 Student at Unicorn University and 42 Prague school.
